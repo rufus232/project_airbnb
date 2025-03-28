@@ -2,3 +2,4 @@ venv/
 *.csv
 __pycache__/
 airbnb_data.csv
+.DS_Store
